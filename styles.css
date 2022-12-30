@@ -1,7 +1,7 @@
 /* define constants up here */
 :root {
-  --banner-bg-start: #ffc6ec;
-  --banner-bg-end: #8abad3;
+  --banner-bg-start: #5fbdel;
+  --banner-bg-end: #fac8d9;
   --produce-gray: #black;
   --search-text-gray: #949494;
   --search-gray: #f2f2f2;
@@ -14,8 +14,8 @@
   --checked-blue: #052ae2CC;
 
   /* ranking border colors */
-  --a-rank: #fdbe08;
-  --b-rank: #08fddf;
+  --a-rank: #5fbdel;
+  --b-rank: #fac8d9;
   --c-rank: #fc4e8b;
   --d-rank: #19b468;
   --f-rank: #a6a6a4;
@@ -33,7 +33,7 @@ body {
   min-width: 100%;
   /*TODO: I had the weirdest bug where if i don't have this background white the top banner would disappear
   it's super late right now and I'm not sure what is going on i need to look into this later */
-  background-color: #b69ef2;
+  background-color: #342545;
 }
 
 /* Styles for banner */
