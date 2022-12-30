@@ -2,10 +2,10 @@
 :root {
   --banner-bg-start: #6cc8eb;
   --banner-bg-end: #fac8d9;
-  --produce-gray: #black;
-  --search-text-gray: #949494;
-  --search-gray: #f2f2f2;
-  --affil-gray: #909090;
+  --produce-gray: #f8f8f9;
+  --search-text-gray: #f8f8f9;
+  --search-gray: #f8f8f9;
+  --affil-gray: #f8f8f9;
   --name-gray: #f8f8f9;
   --other-name-gray: #f8f8f9;
   --ranking-affil-gray: #f8f8f9;
@@ -33,7 +33,7 @@ body {
   min-width: 100%;
   /*TODO: I had the weirdest bug where if i don't have this background white the top banner would disappear
   it's super late right now and I'm not sure what is going on i need to look into this later */
-  background-color: #e4aaf2;
+  background-color: #a72aad;
 }
 
 /* Styles for banner */
