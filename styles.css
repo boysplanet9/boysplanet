@@ -1,12 +1,12 @@
 /* define constants up here */
 :root {
-  --banner-bg-start: #5fbdel;
+  --banner-bg-start: #6cc8eb;
   --banner-bg-end: #fac8d9;
   --produce-gray: #black;
   --search-text-gray: #949494;
   --search-gray: #f2f2f2;
   --affil-gray: #909090;
-  --name-gray: #2b2b2b;
+  --name-gray: #f8f8f9;
   --other-name-gray: #444444;
   --ranking-affil-gray: #989898;
   --save-box-gray: #b1b1b1;
@@ -14,7 +14,7 @@
   --checked-blue: #052ae2CC;
 
   /* ranking border colors */
-  --a-rank: #5fbdel;
+  --a-rank: #6cc8eb;
   --b-rank: #fac8d9;
   --c-rank: #fc4e8b;
   --d-rank: #19b468;
