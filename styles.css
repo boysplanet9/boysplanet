@@ -2,14 +2,14 @@
 :root {
   --banner-bg-start: #6cc8eb;
   --banner-bg-end: #fac8d9;
-  --produce-gray: #f8f8f9;
+  --produce-gray: #000000;
   --search-text-gray: #000000;
-  --search-gray: #322033;
-  --affil-gray: #f8f8f9;
+  --search-gray: #000000;
+  --affil-gray: #000000;
   --name-gray: #000000;
-  --other-name-gray: #322033;
+  --other-name-gray: #000000;
   --ranking-affil-gray: #000000;
-  --save-box-gray: #322033;
+  --save-box-gray: #000000;
 
   --checked-blue: #052ae2CC;
 
